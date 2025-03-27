@@ -45,6 +45,15 @@ Olá! Meu nome é Rayran e sou um desenvolvedor front-end em transição para a 
 
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
