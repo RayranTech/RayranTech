@@ -5,7 +5,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Sou Anailson Rayran, desenvolvedor full-stack, apaixonado por criar soluções completas para a web. No front-end, trabalho com React, TypeScript e CSS, enquanto no back-end uso Node.js com Express, Prisma e PostgreSQL para construir APIs robustas e seguras. Tenho experiência com testes usando Jest e integração eficiente entre serviços, sempre focando na qualidade e escalabilidade do código.
+Sou Anailson Rayran, desenvolvedor full-stack focado em criar soluções completas para a web. No front-end, utilizo React, TypeScript e CSS para desenvolver interfaces modernas e funcionais. No back-end, trabalho com Node.js, Express, Prisma e PostgreSQL, construindo APIs seguras e escaláveis. Também tenho experiência com testes utilizando Jest e integração entre serviços, sempre buscando escrever um código limpo, eficiente e de fácil manutenção.
 ---
 
 ### 🤖 Linguagens e Tecnologias
