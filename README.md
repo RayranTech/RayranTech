@@ -117,7 +117,7 @@ Sou Anailson Rayran, desenvolvedor full-stack, apaixonado por criar soluções c
       align="left" 
       alt="GitHub Stats" 
       height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayran-front-end&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github.com/RayranTech/Rayran-front-end/edit/main/README.md"
   />
 
 </p>
