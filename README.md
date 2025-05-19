@@ -5,44 +5,35 @@
 
 **`Desenvolvedor Front-end`**
 
-Olá! Meu nome é Rayran e sou um desenvolvedor front-end em transição para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e reforçando minha base em JavaScript antes de avançar para o ecossistema Node.js. Tenho experiência com HTML, CSS, JavaScript, Git e GitHub e estou focado em desenvolver projetos práticos para aprimorar minhas habilidades. Atualmente, estou em busca de um estágio em desenvolvimento front-end, onde eu possa aplicar meus conhecimentos e crescer profissionalmente. Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de interfaces web eficientes e acessíveis.
+Sou Anailson Rayran, desenvolvedor full-stack, apaixonado por criar soluções completas para a web. No front-end, trabalho com React, TypeScript e CSS, enquanto no back-end uso Node.js com Express, Prisma e PostgreSQL para construir APIs robustas e seguras. Tenho experiência com testes usando Jest e integração eficiente entre serviços, sempre focando na qualidade e escalabilidade do código.
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="TypeScript" 
@@ -51,22 +42,69 @@ Olá! Meu nome é Rayran e sou um desenvolvedor front-end em transição para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Node.js" 
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px; background-color: white; border-radius: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jest" 
+    title="Jest" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" 
 />
 <img 
     align="left" 
     alt="Git" 
-    title="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 />
 <br/>
 <br/>
@@ -78,7 +116,7 @@ Olá! Meu nome é Rayran e sou um desenvolvedor front-end em transição para a 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="300" 
+      height="250" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayran-front-end&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
