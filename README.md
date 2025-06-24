@@ -1,5 +1,6 @@
 ## Rayran
 
+![Foto de perfil](https://github.com/user-attachments/assets/4fec5b90-5202-4c1b-bca7-9470ea9303ad)
 
 # 👩🏻‍💻 Rayran
 
