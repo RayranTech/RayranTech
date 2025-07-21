@@ -1,4 +1,4 @@
-![Foto de perfil](https://github.com/user-attachments/assets/4fec5b90-5202-4c1b-bca7-9470ea9303ad)
+![Foto de perfil](file:///C:/Users/anail/Downloads/ChatGPT%20Image%2021%20de%20jul.%20de%202025,%2019_04_45.png)
 
 # 👩🏻‍💻 Rayran
 
