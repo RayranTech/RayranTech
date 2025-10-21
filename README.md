@@ -24,7 +24,7 @@ Busco evoluir na área de **Engenharia Analítica**, com foco em **coleta, trans
 ### ⚙️ Tecnologias e Ferramentas
 
 <p align="left">
- <img alt="Excel" title="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" />
+<img alt="Excel" title="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"/>
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="SQL" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
