@@ -1,5 +1,3 @@
-![Foto de perfil](https://github.com/user-attachments/assets/d1229a1f-585a-4f09-9d15-7a9c08907c65)
-
 **`Analytics Engineer | Python | Git | GitHub`**
 
 # 👋 Olá! Sou Anailson Rayran
