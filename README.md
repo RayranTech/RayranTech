@@ -2,26 +2,44 @@
 
 # 👩🏻‍💻 Rayran
 
-**`Desenvolvedor Front-end | React.js`**
+**`Engenharia Analítica | Python | Git | GitHub`**
 
-Olá! Sou Anailson Rayran, um desenvolvedor web com paixão pela criação de **interfaces intuitivas e performáticas**. Meu foco principal é o **Front-end**, onde utilizo **React, TypeScript, JavaScript, HTML e CSS** para construir experiências de usuário modernas e funcionais.
+# 👋 Olá! Sou Anailson Rayran
 
-Busco constantemente aprimorar a usabilidade e a estética de aplicações web, sempre com foco em código limpo, eficiente e de fácil manutenção. Também possuo conhecimento em **Jest** para testes automatizados e **Git** para controle de versão, garantindo a qualidade e organização dos projetos.
+Sou um profissional em **transição de carreira para Engenharia Analítica**, focado em transformar dados em informações estratégicas.
+
+Atualmente, estou desenvolvendo habilidades em **SQL** e **Python**, e aplicando meus conhecimentos em **Excel** e **Git/GitHub** para organizar, versionar e analisar dados de forma eficiente.
+
+Minha experiência anterior em **desenvolvimento web** me proporcionou uma base sólida em **lógica, estruturação e automação**, competências que aplico agora no contexto analítico.
+
+Busco evoluir na área de **Engenharia Analítica**, com foco em **coleta, transformação e modelagem de dados** que suportem pipelines e análises de negócio.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Áreas de Interesse
+- Engenharia Analítica  
+- Análise de Dados  
+- Modelagem e Transformação de Dados  
+- Visualização de Dados  
+- Automação de Processos  
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Jest" title="Jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Excel" title="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-excel/file-excel-plain.svg" />
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="SQL" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+
+---
+
+### 🎯 Objetivo
+Atuar como **Engenheiro Analítico Júnior**, aplicando práticas de versionamento, análise e automação de dados para gerar valor e eficiência nos processos de negócio.
+
 
 ---
 
