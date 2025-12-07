@@ -1,14 +1,14 @@
-**`Analytics Engineer | Python | Git | GitHub`**
+**`Data Analytics | Python | Git | GitHub`**
 
 # 👋 Olá! Sou Anailson Rayran
 
-Sou um profissional em **transição de carreira para Analytics Engineer**, focado em transformar dados em informações estratégicas.
+Sou um profissional focado em Data Analytics, dedicado a transformar dados em insights que apoiem decisões estratégicas.
 
-Atualmente, estou desenvolvendo habilidades em **SQL** e **Python**, e aplicando meus conhecimentos em **Excel** e **Git/GitHub** para organizar, versionar e analisar dados de forma eficiente.
+Desenvolvo soluções utilizando SQL e Python para análise, manipulação e exploração de dados, além de aplicar Excel e Git/GitHub na organização, versionamento e estruturação dos meus projetos.
 
-Minha experiência anterior em **desenvolvimento web** me proporcionou uma base sólida em **lógica, estruturação e automação**, competências que aplico agora no contexto analítico.
+Minha base em desenvolvimento web fortaleceu minhas habilidades em lógica, automação, estruturação de informações e resolução de problemas, que aplico diretamente no contexto analítico.
 
-Busco evoluir na área de **Dados**, com foco em **coleta, transformação e modelagem de dados** que suportem pipelines e análises de negócio.
+Atualmente, estou aprimorando meus conhecimentos em coleta, tratamento, visualização e interpretação de dados, com foco em gerar análises claras, objetivas e orientadas ao negócio.
 
 ---
 
@@ -37,7 +37,7 @@ Busco evoluir na área de **Dados**, com foco em **coleta, transformação e mod
 ---
 
 ### 🎯 Objetivo
-Atuar como **Analytics Engineer Júnior**, aplicando práticas de versionamento, análise e automação de dados para gerar valor e eficiência nos processos de negócio.
+Atuar na área de Data Analytics, aplicando técnicas de análise, organização, visualização e automação de dados para gerar insights estratégicos e apoiar a tomada de decisões.
 
 
 ---
