@@ -44,17 +44,5 @@ Atuar na área de Data Analytics, aplicando técnicas de análise, organização
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RayranTech&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RayranTech&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-</p>
-
-
-
-
+![GitHub followers](https://img.shields.io/github/followers/RayranTech?style=social)
+![GitHub stars](https://img.shields.io/github/stars/RayranTech?style=social)
