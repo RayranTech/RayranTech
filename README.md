@@ -46,17 +46,15 @@ Atuar na área de Data Analytics, aplicando técnicas de análise, organização
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RayranTech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RayranTech&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RayranTech&layout=compact&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayranTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" 
-    height="160"
-  />
-</p>
 
 
 
