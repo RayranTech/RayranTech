@@ -44,6 +44,15 @@ Atuar na área de Data Analytics, aplicando técnicas de análise, organização
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left" alt="GitHub Stats" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayranTech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+### 📊 Estatísticas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RayranTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayranTech&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" 
+    height="180"
+  />
 </p>
