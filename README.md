@@ -2,13 +2,13 @@
 
 # 👋 Olá! Sou Anailson Rayran
 
-Sou um profissional focado em Data Analytics, dedicado a transformar dados em insights que apoiem decisões estratégicas.
+Sou profissional com foco em Data Analytics, atuando na transformação de dados brutos em insights estratégicos orientados à tomada de decisão baseada em evidências (data-driven decision making).
 
-Desenvolvo soluções utilizando SQL e Python para análise, manipulação e exploração de dados, além de aplicar Excel e Git/GitHub na organização, versionamento e estruturação dos meus projetos.
+Desenvolvo soluções utilizando SQL e Python para extração, tratamento, modelagem e análise exploratória de dados (EDA), aplicando técnicas de limpeza, padronização, agregação e validação para garantir qualidade e consistência das informações. Utilizo Excel para análises complementares e construção de relatórios estruturados, além de Git/GitHub para versionamento, rastreabilidade e organização de projetos analíticos.
 
-Minha base em desenvolvimento web fortaleceu minhas habilidades em lógica, automação, estruturação de informações e resolução de problemas, que aplico diretamente no contexto analítico.
+Possuo base em desenvolvimento web, o que fortalece minha capacidade de estruturar pipelines, automatizar processos, organizar fluxos de dados e aplicar lógica computacional na resolução de problemas analíticos.
 
-Atualmente, estou aprimorando meus conhecimentos em coleta, tratamento, visualização e interpretação de dados, com foco em gerar análises claras, objetivas e orientadas ao negócio.
+Atualmente, aprofundo meus conhecimentos em coleta, transformação, visualização e interpretação de dados, com foco em geração de KPIs, construção de dashboards, análise descritiva e diagnóstica, além da tradução de métricas em recomendações acionáveis e orientadas ao desempenho do negócio.
 
 ---
 
@@ -44,5 +44,7 @@ Atuar na área de Data Analytics, aplicando técnicas de análise, organização
 
 ### 📊 Estatísticas
 
-![GitHub followers](https://img.shields.io/github/followers/RayranTech?style=social)
-![GitHub stars](https://img.shields.io/github/stars/RayranTech?style=social)
+![GitHub Repo Stars](https://img.shields.io/github/stars/RayranTech?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/RayranTech?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/RayranTech/RayranTech?style=for-the-badge)
+
