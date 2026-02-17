@@ -46,12 +46,12 @@ Atuar na área de Data Analytics, aplicando técnicas de análise, organização
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RayranTech&show_icons=true&theme=tokyonight" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=RayranTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    height="170"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RayranTech&layout=compact&theme=tokyonight" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayranTech&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    height="170"
   />
 </p>
 
