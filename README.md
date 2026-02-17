@@ -2,13 +2,13 @@
 
 # 👋 Olá! Sou Anailson Rayran
 
-Sou profissional com foco em Data Analytics, atuando na transformação de dados brutos em insights estratégicos orientados à tomada de decisão baseada em evidências (data-driven decision making).
+Atuo em Data Analytics com foco na estruturação e análise de dados para suporte à tomada de decisão orientada por evidências. Minha atuação envolve o ciclo completo do dado, desde a extração e transformação até a modelagem analítica e geração de insights voltados à performance e eficiência operacional.
 
-Desenvolvo soluções utilizando SQL e Python para extração, tratamento, modelagem e análise exploratória de dados (EDA), aplicando técnicas de limpeza, padronização, agregação e validação para garantir qualidade e consistência das informações. Utilizo Excel para análises complementares e construção de relatórios estruturados, além de Git/GitHub para versionamento, rastreabilidade e organização de projetos analíticos.
+Trabalho com SQL e Python na construção de consultas complexas, tratamento e integração de bases, análise exploratória (EDA), definição de métricas e estruturação de indicadores de desempenho (KPIs). Aplico boas práticas de qualidade de dados, padronização, validação e consistência, garantindo confiabilidade nas análises produzidas.
 
-Possuo base em desenvolvimento web, o que fortalece minha capacidade de estruturar pipelines, automatizar processos, organizar fluxos de dados e aplicar lógica computacional na resolução de problemas analíticos.
+Tenho experiência na organização de fluxos analíticos com controle de versão via Git/GitHub e na estruturação de relatórios e dashboards orientados a negócio, priorizando clareza, objetividade e suporte à decisão estratégica.
 
-Atualmente, aprofundo meus conhecimentos em coleta, transformação, visualização e interpretação de dados, com foco em geração de KPIs, construção de dashboards, análise descritiva e diagnóstica, além da tradução de métricas em recomendações acionáveis e orientadas ao desempenho do negócio.
+Minha base em desenvolvimento fortalece minha capacidade de modelar processos, automatizar rotinas, estruturar pipelines de dados e resolver problemas analíticos com abordagem lógica e sistemática.
 
 ---
 
