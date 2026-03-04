@@ -30,6 +30,8 @@ Minha base em desenvolvimento fortalece minha capacidade de modelar processos, a
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Power BI" title="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
   <img alt="Excel" title="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" />
+  <img alt="Apache Spark" title="Apache Spark" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <img alt="Databricks" title="Databricks" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" />
 </p>
 
 </p>
