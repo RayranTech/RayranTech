@@ -2,13 +2,15 @@
 
 # 👋 Olá! Sou Anailson Rayran
 
-Atuo em Data Analytics com foco na estruturação e análise de dados para suporte à tomada de decisão orientada por evidências. Minha atuação envolve o ciclo completo do dado, desde a extração e transformação até a modelagem analítica e geração de insights voltados à performance e eficiência operacional.
+Atuo em Data Analytics com foco na transformação de dados em informações estratégicas para suporte à tomada de decisão orientada por dados. Tenho experiência prática em todo o ciclo analítico, desde a extração, tratamento e modelagem dos dados até a geração de insights e construção de indicadores de performance.
 
-Trabalho com SQL e Python na construção de consultas complexas, tratamento e integração de bases, análise exploratória (EDA), definição de métricas e estruturação de indicadores de desempenho (KPIs). Aplico boas práticas de qualidade de dados, padronização, validação e consistência, garantindo confiabilidade nas análises produzidas.
+Trabalho com SQL e Python no desenvolvimento de consultas complexas, integração e padronização de bases, análise exploratória (EDA), automação de processos analíticos e definição de KPIs voltados à eficiência operacional e acompanhamento de métricas de negócio.
 
-Tenho experiência na organização de fluxos analíticos com controle de versão via Git/GitHub e na estruturação de relatórios e dashboards orientados a negócio, priorizando clareza, objetividade e suporte à decisão estratégica.
+Possuo experiência na criação de pipelines de dados, organização de fluxos analíticos, versionamento com Git/GitHub e desenvolvimento de dashboards e relatórios orientados à tomada de decisão, sempre aplicando boas práticas de qualidade, validação e governança de dados.
 
-Minha base em desenvolvimento fortalece minha capacidade de modelar processos, automatizar rotinas, estruturar pipelines de dados e resolver problemas analíticos com abordagem lógica e sistemática.
+Minha base em desenvolvimento fortalece minha capacidade de estruturar soluções analíticas escaláveis, automatizar rotinas e resolver problemas de forma lógica e sistemática.
+
+Atualmente, direciono minha evolução profissional para a área de Analytics Engineering, aprofundando conhecimentos em modelagem analítica, transformação de dados, orquestração de pipelines e arquitetura moderna de dados, com foco em construir estruturas confiáveis e escaláveis para análise e consumo de informações.
 
 ---
 
@@ -32,6 +34,7 @@ Minha base em desenvolvimento fortalece minha capacidade de modelar processos, a
   <img alt="Excel" title="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" />
   <img alt="Apache Spark" title="Apache Spark" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
   <img alt="Databricks" title="Databricks" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
+  <img alt="Apache Airflow" title="Apache Airflow" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" />
 </p>
 </p>
 
