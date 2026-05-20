@@ -1,4 +1,4 @@
-**`Data Analytics | Python | Git | GitHub`**
+**`Data Analyst | Analytics Engineer| Python | Git | GitHub`**
 
 # 👋 Olá! Sou Anailson Rayran
 
