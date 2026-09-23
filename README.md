@@ -36,7 +36,7 @@ Meu objetivo é gerar valor por meio da Engenharia de Dados, reduzindo processos
   <img alt="Apache Spark" title="Apache Spark" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
   <img alt="Databricks" title="Databricks" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
   <img alt="Apache Airflow" title="Apache Airflow" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" />
-  <img alt="dbt" title="dbt" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" />
+  <img alt="dbt" title="dbt" width="40px" src="https://cdn.simpleicons.org/dbt/FF694B" />
 </p>
 </p>
 
