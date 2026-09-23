@@ -1,25 +1,26 @@
-**`Data Analyst | Analytics Engineer| Python | Git | GitHub`**
+Data Engineer | Python | SQL | Apache Airflow | dbt | AWS
 
-# 👋 Olá! Sou Anailson Rayran
+👋 Olá! Sou Anailson Rayran
 
-Atuo em Data Analytics com foco na transformação de dados em informações estratégicas para suporte à tomada de decisão orientada por dados. Tenho experiência prática em todo o ciclo analítico, desde a extração, tratamento e modelagem dos dados até a geração de insights e construção de indicadores de performance.
+Atuo em Engenharia de Dados, com sólida experiência prática no desenvolvimento de pipelines ETL/ELT, ingestão, integração, transformação e modelagem de dados, com foco na construção de soluções escaláveis, confiáveis e eficientes para atender às necessidades do negócio.
 
-Trabalho com SQL e Python no desenvolvimento de consultas complexas, integração e padronização de bases, análise exploratória (EDA), automação de processos analíticos e definição de KPIs voltados à eficiência operacional e acompanhamento de métricas de negócio.
+Tenho experiência prática na construção e orquestração de pipelines, automação de processos, desenvolvimento e otimização de consultas SQL e implementação de verificações de qualidade de dados, garantindo maior integridade, rastreabilidade e disponibilidade das informações.
 
-Possuo experiência na criação de pipelines de dados, organização de fluxos analíticos, versionamento com Git/GitHub e desenvolvimento de dashboards e relatórios orientados à tomada de decisão, sempre aplicando boas práticas de qualidade, validação e governança de dados.
+Desenvolvo soluções de dados de ponta a ponta, desde a extração e o processamento de grandes volumes de dados até a estruturação de camadas analíticas, aplicando boas práticas de engenharia de software, versionamento de código e organização de fluxos de dados.
 
-Minha base em desenvolvimento fortalece minha capacidade de estruturar soluções analíticas escaláveis, automatizar rotinas e resolver problemas de forma lógica e sistemática.
+Minha experiência em desenvolvimento de software fortalece minha capacidade de integrar sistemas, trabalhar com APIs, automatizar rotinas e desenvolver soluções estruturadas, com foco em desempenho, manutenção e evolução contínua.
 
-Atualmente, direciono minha evolução profissional para a área de Analytics Engineering, aprofundando conhecimentos em modelagem analítica, transformação de dados, orquestração de pipelines e arquitetura moderna de dados, com foco em construir estruturas confiáveis e escaláveis para análise e consumo de informações.
+Meu objetivo é gerar valor por meio da Engenharia de Dados, reduzindo processos manuais, melhorando a eficiência operacional e disponibilizando dados confiáveis e de qualidade para análises e decisões estratégicas de negócio.
 
 ---
 
 ### 🧠 Áreas de Interesse
-- Analytics Engineer  
-- Análise de Dados  
-- Modelagem e Transformação de Dados  
-- Visualização de Dados  
-- Automação de Processos  
+- Engenharia de Dados  
+- Arquitetura e Modelagem de Dados 
+- Desenvolvimento e Orquestração de Pipelines ETL/ELT 
+- Big Data e Processamento Distribuído 
+- Cloud Computing e Data Warehousing
+- Automação e Qualidade de Dados
 
 ---
 
@@ -41,7 +42,7 @@ Atualmente, direciono minha evolução profissional para a área de Analytics En
 ---
 
 ### 🎯 Objetivo
-Atuar na área de Data Analytics, aplicando técnicas de análise, organização, visualização e automação de dados para gerar insights estratégicos e apoiar a tomada de decisões.
+Atuar na área de Engenharia de Dados, desenvolvendo pipelines ETL/ELT, automatizando processos e construindo arquiteturas de dados escaláveis, eficientes e confiáveis. Contribuir para a integração, transformação e disponibilização de dados de qualidade, otimizando processos operacionais e garantindo informações estruturadas para análises e tomadas de decisões estratégicas.
 
 
 ---
